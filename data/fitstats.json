@@ -1,0 +1,23 @@
+{
+    "Exercises": [
+        {
+            "current": 250,
+            "goal": 325,
+            "reps": 5,
+            "sets": 3,
+            "name": "Bench",
+            "start": 225,
+            "progress": 25
+        },
+        {
+            "current": 800,
+            "goal": 900,
+            "reps": 9,
+            "sets": 10,
+            "name": "bench",
+            "start": 700,
+            "progress": 50
+        }
+    ],
+    "Name": "FitStats"
+}

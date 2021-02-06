@@ -1,0 +1,12 @@
+{
+    "Exercises": [{
+        "current": 1,
+        "goal": 5,
+        "reps": 1,
+        "sets": 1,
+        "name": "DL for 1 set(s) of 1",
+        "start": 1,
+        "progress": 0
+    }],
+    "Name": "FitStats"
+}
